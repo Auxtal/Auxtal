@@ -6,4 +6,3 @@
 - 📫 How to reach me: contact me on [discord](https://discord.com/users/327745755789918208)
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I am also a lighting designer
--->
