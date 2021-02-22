@@ -16,7 +16,7 @@
 
 ---
 
-![Auxtal's Github Stats](https://github-readme-stats.vercel.app/api?username=AuxBot-Python)
+[![Auxtal's Github Stats](https://github-readme-stats.vercel.app/api?username=AuxBot-Python)](https://github.com/AuxBot-Python)
 
 ---
 
