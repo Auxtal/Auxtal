@@ -14,7 +14,12 @@
 - 😄 Pronouns: He / Him
 - 📑 Fun fact: I am also a lighting designer
 
------
+---
+
+![Auxtal's Github Stats](https://github-readme-stats.vercel.app/api?username=AuxBot-Python)
+
+---
+
 Credits: [Auxtal](https://github.com/AuxBot-Python)
 
 Last Edited on: 22/02/2021
