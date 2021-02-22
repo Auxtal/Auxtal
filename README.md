@@ -1,8 +1,7 @@
-<img src="https://i.imgur.com/llSOmmb.png" alt="Auxtal-Logo" align="left" width="500" height="500">
-
 ![](https://komarev.com/ghpvc/?username=AuxBot-Python)
 
 <p align="center">
+	<a href="https://github.com/AuxBot-Python"><img src="https://komarev.com/ghpvc/?username=AuxBot-Python" alt="AuxBot" /></a>
 	<a href="https://top.gg/bot/701301497501188169"><img src="https://top.gg/api/widget/servers/701301497501188169.svg" alt="AuxBot" /></a>
 </p>
 
