@@ -5,7 +5,7 @@
 
 ---
 
-<h2>Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://github.com/AuxBot-Python">Auxtal</a></h2>
+**Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://github.com/AuxBot-Python">Auxtal</a>**
 
 - 🔭 I’m currently working on AuxBot Discord Bot
 - 🌱 I’m currently learning Python, CSS, HTML
@@ -16,7 +16,7 @@
 
 ---
 
-<h2>Languages and Tools</h2>
+**Languages and Tools**
 
 <code><img height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
