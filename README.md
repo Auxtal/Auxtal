@@ -12,7 +12,6 @@
 - 💬 Ask me about anything in my [discord server](https://www.auxbot.xyz/support)
 - 📫 How to reach me: contact me on [discord](https://discord.com/users/327745755789918208)
 - 😄 Pronouns: He / Him
-- 📑 Fun fact: I am also a lighting designer
 
 ---
 
@@ -28,12 +27,10 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AuxBot-Python&theme=dark&show_icons=true" alt="shwetangStats" />  
+  <a href="https://github.com/AuxBot-Python">
+    <img src="https://github-readme-stats.vercel.app/api?username=AuxBot-Python&theme=dark&show_icons=true" alt="shwetangStats" />  
+  </a>
   <br />
 </p>
 
 ---
-
-Credits: [Auxtal](https://github.com/AuxBot-Python)
-
-Last Edited on: 22/02/2021
