@@ -5,7 +5,7 @@
 
 ---
 
-**Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://github.com/AuxBot-Python">Auxtal</a>**
+**Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://github.com/Auxtal">Auxtal</a>**
 
 - 🔭 I’m currently working on AuxBot Discord Bot
 - 🌱 I’m currently learning Python, CSS, HTML
