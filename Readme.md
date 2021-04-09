@@ -1,6 +1,6 @@
 <p align="center">
-	<a href="https://github.com/AuxBot-Python"><img src="https://komarev.com/ghpvc/?username=AuxBot-Python" alt="AuxBot" /></a>
-	<a href="https://top.gg/bot/701301497501188169"><img src="https://top.gg/api/widget/servers/701301497501188169.svg" alt="AuxBot" /></a>
+	<a href="https://github.com/Auxtal"><img src="https://komarev.com/ghpvc/?username=Auxtal" alt="Auxtal-Views"></a>
+	<a href="https://top.gg/bot/701301497501188169"><img src="https://top.gg/api/widget/servers/701301497501188169.svg" alt="AuxBot-Servers"></a>
 </p>
 
 ---
@@ -27,8 +27,8 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/AuxBot-Python">
-    <img src="https://github-readme-stats.vercel.app/api?username=AuxBot-Python&theme=dark&show_icons=true" alt="shwetangStats" />  
+  <a href="https://github.com/Auxtal">
+    <img src="https://github-readme-stats.vercel.app/api?username=Auxtal&theme=dark&show_icons=true" alt="shwetangStats" />  
   </a>
   <br />
 </p>
