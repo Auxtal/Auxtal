@@ -18,22 +18,24 @@
 **Languages and Tools**
 
 <p align="center">
-	<img height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
-	<img height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-	<img alt="Visual Studio Code" height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
-	<img alt="HTML5" height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-	<img alt="CSS3" height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-	<img height="35rem" src="https://img.icons8.com/color/2x/bootstrap.png"></code>
+	<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" height="25">
+	<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" height="25">
+	<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" height="25">
+	<img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" height="25">
+	<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" height="25">
+	<img src="https://img.shields.io/badge/Python-282C34?logo=python" height="25">
+	<img src="https://img.shields.io/badge/Postgres-282C34?logo=postgresql&logoColor=296590" height="25">
+	<img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap" height="25">
 </p>
 
 ---
 
 <p align="center">
 	<a href="https://github.com/Auxtal">
-		<img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=Auxtal&show_icons=true&title_color=24A7FF&text_color=cccccc&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true&hide=prs,stars">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/?username=Auxtal&show_icons=true&title_color=24A7FF&text_color=cccccc&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true&hide=prs,stars">
 	</a>
 	<a href="https://github.com/Auxtal">
-		<img align="center" style="padding=0;" src="https://spotify-github-profile.vercel.app/api/view?uid=ethanproduction101&cover_image=true&theme=novatorem">
+		<img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=ethanproduction101&cover_image=true&theme=novatorem">
 	</a>
 </p>
 <br>
