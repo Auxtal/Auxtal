@@ -30,7 +30,7 @@
 
 <p align="center">
 	<a href="https://github.com/Auxtal">
-		<img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=Auxtal&show_icons=true&title_color=24A7FF&text_color=cccccc&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true">
+		<img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=Auxtal&show_icons=true&title_color=24A7FF&text_color=cccccc&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true&hide=prs,stars">
 	</a>
 	<a href="https://github.com/Auxtal">
 		<img align="center" style="padding=0;" src="https://spotify-github-profile.vercel.app/api/view?uid=ethanproduction101&cover_image=true&theme=novatorem">
