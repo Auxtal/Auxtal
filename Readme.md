@@ -6,7 +6,7 @@
 
 ---
 
-**Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://github.com/Auxtal">Auxtal</a>**
+**Hey <a href="https://github.com/Auxtal"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> , I'm <a href="https://github.com/Auxtal">Auxtal</a>**
 
 - 🔭 I’m currently working on AuxBot Discord Bot
 - 🌱 I’m currently learning Python, CSS, HTML
@@ -18,14 +18,30 @@
 **Languages and Tools**
 
 <p align="center">
-	<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" height="25">
-	<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" height="25">
-	<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" height="25">
-	<img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" height="25">
-	<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" height="25">
-	<img src="https://img.shields.io/badge/Python-282C34?logo=python" height="25">
-	<img src="https://img.shields.io/badge/Postgres-282C34?logo=postgresql&logoColor=296590" height="25">
-	<img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap" height="25">
+	<a href="https://github.com/Auxtal">
+		<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" height="25">
+	</a>
+	<a href="https://github.com/Auxtal">
+		<img src="https://img.shields.io/badge/Python-282C34?logo=python" height="25">
+	</a>
+	<a href="https://github.com/Auxtal">
+		<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" height="25">
+	</a>
+	<a href="https://github.com/Auxtal">
+		<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" height="25">
+	</a>
+	<a href="https://github.com/Auxtal">
+		<img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" height="25">
+	</a>
+	<a href="https://github.com/Auxtal">
+		<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" height="25">
+	</a>
+	<a href="https://github.com/Auxtal">
+		<img src="https://img.shields.io/badge/Postgres-282C34?logo=postgresql&logoColor=296590" height="25">
+	</a>
+	<a href="https://github.com/Auxtal">
+		<img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap" height="25">
+	</a>
 </p>
 
 ---
