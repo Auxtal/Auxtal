@@ -1,6 +1,6 @@
 <p align="center">
-	<a href="https://github.com/Auxtal"><img src="https://komarev.com/ghpvc/?username=Auxtal" alt="Auxtal-Views"></a>
-	<a href="https://top.gg/bot/701301497501188169"><img src="https://top.gg/api/widget/servers/701301497501188169.svg" alt="AuxBot-Servers"></a>
+	<a href="https://github.com/Auxtal"><img src="https://komarev.com/ghpvc/?username=Auxtal"></a>
+	<a href="https://top.gg/bot/701301497501188169"><img src="https://top.gg/api/widget/servers/701301497501188169.svg"></a>
 </p>
 
 ---
