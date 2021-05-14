@@ -8,7 +8,7 @@
 **Hey <a href="https://github.com/Auxtal"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> , I'm <a href="https://github.com/Auxtal">Auxtal</a>**
 
 - 🔭 I’m currently working on AuxBot Discord Bot
-- 🌱 I’m currently learning Python, CSS, HTML
+- 🌱 I’m proficient in Python, CSS, HTML
 - 📫 How to reach me: contact me on [discord](https://discord.com/users/327745755789918208)
 - 😄 Pronouns: He / Him
 
