@@ -1,13 +1,12 @@
 <p align="center">
 	<a href="https://github.com/Auxtal"><img src="https://komarev.com/ghpvc/?username=Auxtal"></a>
-	<a href="https://top.gg/bot/701301497501188169"><img src="https://top.gg/api/widget/servers/701301497501188169.svg"></a>
 </p>
 
 ---
 
 **Hey <a href="https://github.com/Auxtal"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> , I'm <a href="https://github.com/Auxtal">Auxtal</a>**
 
-- 🔭 I’m currently working on AuxBot Discord Bot
+- 🔭 I’m currently working on AuxBot
 - 🌱 I’m proficient in Python, CSS, HTML
 - 📫 How to reach me: contact me on [discord](https://discord.com/users/327745755789918208)
 - 😄 Pronouns: He / Him
