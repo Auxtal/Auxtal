@@ -13,20 +13,26 @@
 
 ---
 
-**Languages and Tools**
+**Tools And Languages**
 
 <p align="center">
 	<a href="https://github.com/Auxtal">
 		<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" height="25">
 	</a>
 	<a href="https://github.com/Auxtal">
+		<img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=007ACC" height="25">
+	</a>
+	<a href="https://github.com/Auxtal">
+		<img src="https://img.shields.io/badge/Postgres-282C34?logo=postgresql&logoColor=296590" height="25">
+	</a>
+	<a href="https://github.com/Auxtal">
+		<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" height="25">
+	</a>
+	<a href="https://github.com/Auxtal">
+		<img src="https://img.shields.io/badge/Tailwind CSS-282C34?logo=tailwindcss" height="25">
+	</a>
+	<a href="https://github.com/Auxtal">
 		<img src="https://img.shields.io/badge/Python-282C34?logo=python" height="25">
-	</a>
-	<a href="https://github.com/Auxtal">
-		<img src="https://img.shields.io/badge/Javascript-282C34?logo=javascript" height="25">
-	</a>
-	<a href="https://github.com/Auxtal">
-		<img src="https://img.shields.io/badge/Typescript-282C34?logo=typescript" height="25">
 	</a>
 	<a href="https://github.com/Auxtal">
 		<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" height="25">
@@ -38,16 +44,7 @@
 		<img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" height="25">
 	</a>
 	<a href="https://github.com/Auxtal">
-		<img src="https://img.shields.io/badge/Postgres-282C34?logo=postgresql&logoColor=296590" height="25">
-	</a>
-	<a href="https://github.com/Auxtal">
-		<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" height="25">
-	</a>
-	<a href="https://github.com/Auxtal">
 		<img src="https://img.shields.io/badge/Svelte-282C34?logo=svelte" height="25">
-	</a>
-	<a href="https://github.com/Auxtal">
-		<img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap" height="25">
 	</a>
 </p>
 
