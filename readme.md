@@ -14,7 +14,6 @@
 - ⌨️ I’m currently working on AuxBot
 - ⭐ I’m proficient in Python, CSS, HTML
 - 📫 How to reach me: contact me on [discord](https://discord.com/users/327745755789918208)
-- 😄 Pronouns: He / Him
 
 <details>
 	<summary>Tools And Languages</summary>
