@@ -15,7 +15,7 @@
 - ⭐ I’m proficient in Python, Svelte
 - 📫 How to reach me: contact me on [discord](https://discord.com/users/327745755789918208)
 
-<details>
+<details open>
 	<summary>Tools And Languages</summary>
 	<br>
 	<p align="center">
@@ -72,8 +72,7 @@
 		</a>
 	</p>
 </details>
-
-<details>
+<details open>
 	<summary>Statistics</summary>
 	<br>
 	<p align="center">
