@@ -4,7 +4,7 @@
 	<strong>Auxtal</strong>
 	<br>
 	<br>
-	<a href="https://github.com/Auxtal"><img src="https://komarev.com/ghpvc/?username=Auxtal"></a>
+	<a href="https://dsc.gg/Auxtal"><img src="https://img.shields.io/badge/Discord-5865F2.svg?logo=Discord&logoColor=white"></a>
 </p>
 
 ---
@@ -12,7 +12,7 @@
 **Hey <a href="https://github.com/Auxtal"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> , I'm <a href="https://github.com/Auxtal">Auxtal</a>**
 
 - ⌨️ I’m currently working on AuxBot
-- ⭐ I’m proficient in Python, CSS, HTML
+- ⭐ I’m proficient in Python, Svelte
 - 📫 How to reach me: contact me on [discord](https://discord.com/users/327745755789918208)
 
 <details>
@@ -20,34 +20,55 @@
 	<br>
 	<p align="center">
 		<a href="https://github.com/Auxtal">
-			<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" height="25">
+			<img src="https://img.shields.io/badge/Windows-0078D6.svg?logo=Windows&logoColor=white" height="25">
 		</a>
 		<a href="https://github.com/Auxtal">
-			<img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=007ACC" height="25">
+			<img src="https://img.shields.io/badge/macOS-000000.svg?logo=macOS&logoColor=white" height="25">
 		</a>
 		<a href="https://github.com/Auxtal">
-			<img src="https://img.shields.io/badge/Postgres-282C34?logo=postgresql&logoColor=296590" height="25">
+			<img src="https://img.shields.io/badge/Linux-FCC624.svg?logo=Linux&logoColor=black" height="25">
 		</a>
 		<a href="https://github.com/Auxtal">
-			<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" height="25">
+			<img src="https://img.shields.io/badge/Portainer-13BEF9.svg?logo=Portainer&logoColor=white" height="25">
 		</a>
 		<a href="https://github.com/Auxtal">
-			<img src="https://img.shields.io/badge/Tailwind CSS-282C34?logo=tailwindcss" height="25">
+			<img src="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?logo=Visual-Studio-Code&logoColor=white" height="25">
 		</a>
 		<a href="https://github.com/Auxtal">
-			<img src="https://img.shields.io/badge/Python-282C34?logo=python" height="25">
+			<img src="https://img.shields.io/badge/PyCharm-000000.svg?logo=PyCharm&logoColor=white" height="25">
 		</a>
 		<a href="https://github.com/Auxtal">
-			<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" height="25">
+			<img src="https://img.shields.io/badge/Docker-2496ED.svg?logo=Docker&logoColor=white" height="25">
 		</a>
 		<a href="https://github.com/Auxtal">
-			<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" height="25">
+			<img src="https://img.shields.io/badge/Kubernetes-326CE5.svg?logo=Kubernetes&logoColor=white" height="25">
 		</a>
 		<a href="https://github.com/Auxtal">
-			<img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" height="25">
+			<img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?logo=PostgreSQL&logoColor=white" height="25">
 		</a>
 		<a href="https://github.com/Auxtal">
-			<img src="https://img.shields.io/badge/Svelte-282C34?logo=svelte" height="25">
+			<img src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=MongoDB&logoColor=white" height="25">
+		</a>
+		<a href="https://github.com/Auxtal">
+			<img src="https://img.shields.io/badge/GraphQL-E10098.svg?logo=GraphQL&logoColor=white" height="25">
+		</a>
+		<a href="https://github.com/Auxtal">
+			<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4.svg?logo=Tailwind-CSS&logoColor=white" height="25">
+		</a>
+		<a href="https://github.com/Auxtal">
+			<img src="https://img.shields.io/badge/Python-3776AB.svg?logo=Python&logoColor=white" height="25">
+		</a>
+		<a href="https://github.com/Auxtal">
+			<img src="https://img.shields.io/badge/HTML5-E34F26.svg?logo=HTML5&logoColor=white" height="25">
+		</a>
+		<a href="https://github.com/Auxtal">
+			<img src="https://img.shields.io/badge/CSS3-1572B6.svg?logo=CSS3&logoColor=white" height="25">
+		</a>
+		<a href="https://github.com/Auxtal">
+			<img src="https://img.shields.io/badge/Sass-CC6699.svg?logo=Sass&logoColor=white" height="25">
+		</a>
+		<a href="https://github.com/Auxtal">
+			<img src="https://img.shields.io/badge/Svelte-FF3E00.svg?logo=Svelte&logoColor=white" height="25">
 		</a>
 	</p>
 </details>
@@ -58,9 +79,6 @@
 	<p align="center">
 		<a href="https://github.com/Auxtal">
 			<img align="center" src="https://github-readme-stats.vercel.app/api/?username=Auxtal&show_icons=true&title_color=24A7FF&text_color=cccccc&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true&hide=prs,stars">
-		</a>
-		<a href="https://github.com/Auxtal">
-			<img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=ethanproduction101&cover_image=true&theme=novatorem">
 		</a>
 	</p>
 </details>
