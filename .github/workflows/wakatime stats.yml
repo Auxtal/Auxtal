@@ -1,8 +1,12 @@
 name: WakaTime Stats
 
+# on:
+#   schedule:
+#     - cron: '*/10 * * * *'
 on:
-  schedule:
-    - cron: '*/10 * * * *'
+  push:
+    branches:
+      - main
 
 jobs:
   update-readme:
