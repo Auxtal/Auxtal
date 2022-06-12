@@ -90,7 +90,7 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-145-orange)
 
-**📊 Global GitHub data** 
+**📊 My GitHub data** 
 
 ```text
 🏆 234 contributions in 2022
