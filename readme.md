@@ -88,21 +88,20 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-837%20hrs%2023%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-145-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-145-orange)
 
-**🐱 My GitHub Data** 
+**📊 Global GitHub data** 
 
-> 🏆 234 Contributions in the Year 2022
+```text
+🏆 234 contributions in 2022
+
+📦 100 Bytes used in GitHub's storage 
+
+📜 4 Public Repositories 
+
+🔑 0 Private Repositories  
  > 
-> 📦 100 Bytes Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 4 Public Repositories 
- > 
-> 🔑 0 Private Repositories  
- > 
-**I'm an Early 🐤** 
+**I'm an early 🐤** 
 
 ```text
 🌞 Morning    97 commits     █████░░░░░░░░░░░░░░░░░░░░   22.0% 
@@ -111,7 +110,7 @@
 🌙 Night      16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.63%
 
 ```
-📅 **I'm Most Productive on Thursday** 
+📅 **I'm most productive on Thursday** 
 
 ```text
 Monday       42 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.52% 
@@ -125,7 +124,7 @@ Sunday       86 commits     █████░░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This week I spent my time on** 
 
 ```text
 💬 Programming Languages: 
@@ -148,7 +147,7 @@ Windows                  2 hrs 55 mins       ███████████�
 
 ```
 
-**I Mostly Code in Python** 
+**💻 I mostly code in Python** 
 
 ```text
 Python                   4 repos             ████████████████████░░░░░   80.0% 
