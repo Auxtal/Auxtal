@@ -92,9 +92,9 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 241 Contributions in the Year 2022
+> 🏆 238 Contributions in the Year 2022
  > 
-> 📦 166 Bytes Used in GitHub's Storage 
+> 📦 180 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
