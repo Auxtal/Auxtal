@@ -86,13 +86,13 @@
 	<br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-854%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-854%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 267 Contributions in the Year 2022
+> 🏆 247 Contributions in the Year 2022
  > 
 > 📦 287 Bytes Used in GitHub's Storage 
  > 
