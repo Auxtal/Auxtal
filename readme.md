@@ -94,7 +94,7 @@
 
 > 🏆 291 Contributions in the Year 2022
  > 
-> 📦 724 Bytes Used in GitHub's Storage 
+> 📦 620 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
