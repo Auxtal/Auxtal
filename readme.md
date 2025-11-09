@@ -8,9 +8,5 @@
 	</strong>
 	<br>
 </p>
-<p align="center">
-	<br>
-	<img src="https://github-readme-stats.vercel.app/api?username=auxtal&show_icons=true&theme=dark" alt="Auxtal's GitHub Statistics">
-</p>
 
 ---
